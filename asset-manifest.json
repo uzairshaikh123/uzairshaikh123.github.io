@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b751a7de.css",
-    "main.js": "/static/js/main.e9cc9f60.js",
+    "main.css": "/static/css/main.c3d17ea2.css",
+    "main.js": "/static/js/main.2f17d421.js",
     "static/js/787.321da08e.chunk.js": "/static/js/787.321da08e.chunk.js",
     "static/media/Tripoto.png": "/static/media/Tripoto.d16e2610dace71b6a0e1.png",
     "static/media/shopkaro.png": "/static/media/shopkaro.24ed0192956de1674bf2.png",
@@ -16,12 +16,12 @@
     "static/media/ts.svg": "/static/media/ts.b6a67c48c000563cf9b19d2e171feadc.svg",
     "static/media/css.svg": "/static/media/css.b0696b45b1583f1dcd92f8fc11f764e1.svg",
     "static/media/html.svg": "/static/media/html.10080bf9eca0dcafeb4b353b2ce579ea.svg",
-    "main.b751a7de.css.map": "/static/css/main.b751a7de.css.map",
-    "main.e9cc9f60.js.map": "/static/js/main.e9cc9f60.js.map",
+    "main.c3d17ea2.css.map": "/static/css/main.c3d17ea2.css.map",
+    "main.2f17d421.js.map": "/static/js/main.2f17d421.js.map",
     "787.321da08e.chunk.js.map": "/static/js/787.321da08e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b751a7de.css",
-    "static/js/main.e9cc9f60.js"
+    "static/css/main.c3d17ea2.css",
+    "static/js/main.2f17d421.js"
   ]
 }
