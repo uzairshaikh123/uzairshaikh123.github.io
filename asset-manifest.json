@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84d8086c.css",
-    "main.js": "/static/js/main.8d59ef8f.js",
+    "main.js": "/static/js/main.78521dcb.js",
     "static/js/787.321da08e.chunk.js": "/static/js/787.321da08e.chunk.js",
     "static/media/Tripoto.png": "/static/media/Tripoto.d16e2610dace71b6a0e1.png",
     "static/media/shopkaro.png": "/static/media/shopkaro.24ed0192956de1674bf2.png",
@@ -18,11 +18,11 @@
     "static/media/css.svg": "/static/media/css.b0696b45b1583f1dcd92f8fc11f764e1.svg",
     "static/media/html.svg": "/static/media/html.10080bf9eca0dcafeb4b353b2ce579ea.svg",
     "main.84d8086c.css.map": "/static/css/main.84d8086c.css.map",
-    "main.8d59ef8f.js.map": "/static/js/main.8d59ef8f.js.map",
+    "main.78521dcb.js.map": "/static/js/main.78521dcb.js.map",
     "787.321da08e.chunk.js.map": "/static/js/787.321da08e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84d8086c.css",
-    "static/js/main.8d59ef8f.js"
+    "static/js/main.78521dcb.js"
   ]
 }
